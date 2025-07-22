@@ -1,4 +1,4 @@
-#Acknowledgements
+# Acknowledgements
 This project is based on the awesome work by [@shishkabob27](https://github.com/shishkabob27/CardWars/commits?author=shishkabob27) in the [CardWars](https://github.com/shishkabob27/CardWars) repository.
 I forked the project to port the game to more platforms like MacOS and Linux (done), and maybe, just maybe remaster some UI elements and textures...
 
