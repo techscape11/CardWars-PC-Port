@@ -24,9 +24,9 @@ It's CARD WARS!
 
 ## Download
 
-* [Latest Windows Version](https://github.com/shishkabob27/CardWars/releases/latest/download/CardWars-Windows.zip)
-* Mac Version - Coming Soon
-* Linux Version - Coming Soon
+* [Latest Windows Version](https://github.com/techscape11/CardWars-PC-Port/releases/download/v1.12.8/CardWars-Windows.zip)
+* [Latest MacOS Version](https://github.com/techscape11/CardWars-PC-Port/releases/download/v1.12.8/CardWars-MacOS.zip)
+* [Latest Linux Version](https://github.com/techscape11/CardWars-PC-Port/releases/download/v1.12.8/CardWars-Linux.zip)
 
 ## Images
 ![CardWars_r8d9H393Tp](https://i.imgur.com/cXUolY0.jpg)
