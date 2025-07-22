@@ -1,5 +1,5 @@
 # Card Wars
-A port of the "Adventure Time: Card Wars" mobile game to PC.
+A port of the "Adventure Time: Card Wars" mobile game to PC. (Mac/Linux Coming Soon...)
 
 Floop the Pig! It's Adventure Time CARD WARS! Play the game inspired by the Adventure TIme episode, 'Card Wars'! Summon creatures and cast spells to battle your way to victory.
 
